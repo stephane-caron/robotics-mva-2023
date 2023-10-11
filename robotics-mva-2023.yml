@@ -3,18 +3,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
-  - numpy=1.22
-  - pinocchio
-  - meshcat-python
   - example-robot-data
-  - jupyterlab
-  - ipywidgets
-  - matplotlib
-  - scipy
-  - quadprog
-  - crocoddyl
-  - keras
-  - tensorflow
   - gym
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - meshcat-python
+  - pinocchio
+  - python=3.10
+  - quadprog
+  - scipy
   - tqdm
