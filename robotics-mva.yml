@@ -1,4 +1,4 @@
-name: robotics-mva-2023
+name: robotics-mva
 channels:
   - conda-forge
   - defaults
