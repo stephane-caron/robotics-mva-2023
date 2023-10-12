@@ -33,13 +33,13 @@ Only a little snippet is applied to your home .bashrc, everything else will be s
 - Create the conda environment:
 
 ```bash
-conda env create -f robotics-mva-2023.yml
+conda env create -f robotics-mva.yml
 ```
 
 From there on, to work on a tutorial notebook, you only need to activate the environment:
 
 ```bash
-conda activate robotics-mva-2023
+conda activate robotics-mva
 ```
 
 Then launch the notebook with:
