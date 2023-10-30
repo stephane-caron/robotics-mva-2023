@@ -64,3 +64,9 @@ If the repository changes (for instance when new tutorials are pushed) you will 
 ```
 git pull
 ```
+
+If you already have local changes to a notebook `something.ipynb`, either you already know how to use git and you can commit them, or you don't and the safest way for you to update is to:
+
+- Copy your modified `something.ipynb` somewhere else
+- Revert it to its original version: ``git checkout -f something.ipynb``
+- Pull updates from the remote repository: ``git pull``
