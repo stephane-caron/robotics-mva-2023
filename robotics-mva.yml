@@ -5,10 +5,12 @@ channels:
 dependencies:
   - example-robot-data
   - gymnasium
+  - imageio
   - ipywidgets
   - jupyterlab
   - matplotlib
   - meshcat-python
+  - mujoco
   - pinocchio
   - python=3.10
   - quadprog
