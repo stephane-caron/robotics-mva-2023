@@ -13,4 +13,5 @@ dependencies:
   - python=3.10
   - quadprog
   - scipy
+  - tensorboard
   - tqdm
