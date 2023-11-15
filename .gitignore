@@ -1,3 +1,5 @@
+*.zip
 *_solution.ipynb
+*_tensorboard
 .ipynb_checkpoints
 __pycache__
