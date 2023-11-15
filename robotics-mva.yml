@@ -10,7 +10,7 @@ dependencies:
   - jupyterlab
   - matplotlib
   - meshcat-python
-  - mujoco
+  - mujoco=2.3.7
   - pinocchio
   - python=3.10
   - quadprog
