@@ -1,6 +1,6 @@
-# Robotic MVA 2023
+# Robotics MVA 2023
 
-This repository contains tutorial notebooks for the 2023 [Robotics](https://scaron.info/robotics-mva/) class at [MVA](https://www.master-mva.com/cours/robotics/).
+This repository contains tutorial notebooks for the 2023 [Robotics](https://www.master-mva.com/cours/robotics/) class at MVA.
 
 ## Getting started
 
